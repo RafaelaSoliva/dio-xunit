@@ -83,3 +83,4 @@ dio-xunit/
 ##
 
 ##### [@RafaelaSoliva](https://github.com/RafaelaSoliva)
+##### **Desenvolvida do zero.** Solução do [desafio da Dio](https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio)
